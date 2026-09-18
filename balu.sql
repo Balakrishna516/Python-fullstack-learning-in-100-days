@@ -1,0 +1,6 @@
+USE PFS7;
+
+ 
+ DESC STUDENTS;
+ 
+ SHOW TABLES;
